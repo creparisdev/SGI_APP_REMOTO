@@ -1,1 +1,1 @@
-# SGI_APP_REMOTO
+# SGI_ApplicationMobile
